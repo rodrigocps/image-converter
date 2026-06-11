@@ -1,4 +1,4 @@
-# Projeto: Redução de Dimensionalidade em Imagens
+# Redução de Dimensionalidade em Imagens
 
 Este projeto demonstra a implementação manual de algoritmos fundamentais de processamento de imagens em Python. O objetivo principal é converter uma imagem colorida para níveis de cinza e, em seguida, bazer a binarização para obter uma versão em preto e branco, evidenciando o conceito de **redução de dimensionalidade**.
 
