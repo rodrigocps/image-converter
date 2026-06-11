@@ -27,3 +27,6 @@ A implementação seguiu um processo sequencial de transformação da imagem, ut
 | `Python` | Linguagem de programação principal. |
 | `Pillow` | Biblioteca de processamento de imagens (Utilizada para carregar e salvar arquivos de imagem). |
 | `Google Colab` | Ambiente de desenvolvimento (Notebooks Jupyter) baseado em nuvem. |
+
+## Uso de IA
+Este projeto contou com auxílio de ferramentas de Inteligência Artificial para geração de trechos de código e ideias de implementação. Todo o material foi revisado, adaptado e testado manualmente antes da publicação.
